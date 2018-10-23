@@ -3,8 +3,19 @@
   <Form id="Form_Work" width="1280" height="720" titletext="Form_Work">
     <Layouts>
       <Layout width="1280" height="720" screenid="Desktop_screen">
-        <Button id="Button00" taborder="0" text="Button00" left="80" top="60" width="120" height="50"/>
+        <Button id="Button00" taborder="0" text="Button00" left="90" top="100" width="120" height="50" onclick="Button00_onclick"/>
       </Layout>
     </Layouts>
+    <Script type="xscript5.1"><![CDATA[
+this.Button00_onclick = function(obj:nexacro.Button,e:nexacro.ClickEventInfo)
+{
+	trace("www.naver.com");
+	trace("http://naver.com");
+	trace("file://c:/test");
+	trace("file://c:/test/test.txt");
+	trace("c:/test");
+	trace("c:/test/test.txt");
+};
+]]></Script>
   </Form>
 </FDL>
