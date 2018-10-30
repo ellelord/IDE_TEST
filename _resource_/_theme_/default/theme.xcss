@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <XCSS version="1.0"><![CDATA[/*
-* last-modified:2018-05-16
+* last-modified:2018-01-23
 */
 
 
@@ -356,30 +356,6 @@
 	color : #999999;
 }
 
-/*-----------------------------------subcell:cell과 동일------------------------------------*/
-.Grid .body .row .cell .subcell
-{
-	color : #666666;
-	-nexa-border : 1px solid #dbdee2;
-	-nexa-padding : 4px 4px 4px 4px;
-}
-.Grid .body .row .cell .subcell[status=mouseover]
-{
-	background : #f6f6f6;
-}
-.Grid .body .row .cell .subcell[status=disabled]
-{
-	color : #999999;
-}
-.Grid .body .row .cell .subcell[userstatus=selected]
-{
-	background : #f2f9ff;
-}
-.Grid .body .row .cell .subcell[userstatus=blinked]
-{
-    background : #125dae;
-	color : #ffffff;
-}
 /*-----------------------------------bodycellbutton:ButtonControl과 동일------------------------------------*/
 /*-----------------------------------bodycellcalendar:CalendarControl과 동일------------------------------------*/
 /*-----------------------------------bodycellcheckbox:CheckBoxControl과 동일------------------------------------*/
@@ -432,6 +408,7 @@
 }
 
 
+/**********************GridCellControl***********************************************/
 /*-----------------------------------cellbutton:ButtonControl과 동일------------------------------------*/
 .GridCellControl .cellbutton
 {
@@ -595,6 +572,7 @@
     background : #125dae;
 	color : #ffffff;
 }
+
 
 /**********************GroupBox***********************************************/
 .GroupBox
@@ -838,6 +816,11 @@
 	color : #2665af;
 }
 
+.Menu .menupopupmenu .popupmenuitem .popupmenuitemicon
+{
+	-nexa-icon : URL('theme://images/img_WF_Menuitem2.png');
+}
+
 .Menu .menupopupmenu .popupmenuitem .popupmenuitemcheckbox
 {
 	-nexa-padding : 0px 7px 0px 0px;
@@ -953,6 +936,11 @@
 .PopupMenu .popupmenuitem[status=disabled],.PopupMenuControl .popupmenuitem[status=disabled]
 {
 	color : #999999;
+}
+
+.PopupMenu .popupmenuitem .popupmenuitemicon,.PopupMenuControl .popupmenuitem .popupmenuitemicon
+{
+	-nexa-icon : URL('theme://images/img_WF_Menuitem2.png');
 }
 
 .PopupMenu .popupmenuitem .popupmenuitemcheckbox,.PopupMenuControl .popupmenuitem .popupmenuitemcheckbox
