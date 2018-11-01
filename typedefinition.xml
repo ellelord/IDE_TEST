@@ -39,6 +39,7 @@
     <Service prefixid="imagerc" type="resource" url="./_resource_/_images_/"/>
     <Service prefixid="font" type="resource" url="./_resource_/_font_/" version="0" communicationversion="0"/>
     <Service prefixid="Base" type="form" cachelevel="session" url="./Base/"/>
+    <Service prefixid="FrameBase" type="form" url="./FrameBase/" cachelevel="session"/>
   </Services>
   <Protocols/>
   <Update/>

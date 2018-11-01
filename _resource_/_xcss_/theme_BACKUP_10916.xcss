@@ -7,7 +7,11 @@
 /**********************Frame/Form***********************************************/
 .Form
 {
+<<<<<<< HEAD
 	font : 12px Gulim;
+=======
+	font : 12px Gulim;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #555555;
 	background : #ffffff;
 	-nexa-border : 0px none;
@@ -39,13 +43,21 @@
 /**********************FileUpload***********************************************/
 .Button,.FileDownload
 {
+<<<<<<< HEAD
 	background : linear-gradient(to top,#eaeaea,#ffffff);
+=======
+	background : linear-gradient(to top,#eaeaea,#ffffff);
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #c2c2c2;
 }
 
 .ButtonControl
 {
+<<<<<<< HEAD
 	background : transparent;
+=======
+	background : transparent;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 0px none;
 }
 
@@ -66,14 +78,22 @@
 
 .FileUpload .fileuploaditem .fileuploaditembutton
 {
+<<<<<<< HEAD
 	background : linear-gradient(to top,#eaeaea,#ffffff);
+=======
+	background : linear-gradient(to top,#eaeaea,#ffffff);
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #c2c2c2;
 	-nexa-padding : 1px 9px 0px 9px;
 }
 
 .Button[status=mouseover],.Button[status=focused],.FileDownload[status=mouseover],.FileDownload[status=focused],.FileUpload .fileuploaditem .fileuploaditembutton[status=mouseover],.FileUpload .fileuploaditem .fileuploaditembutton[status=focused]
 {
+<<<<<<< HEAD
 	background : linear-gradient(to top,#e7e7e7,#fefefe);
+=======
+	background : linear-gradient(to top,#e7e7e7,#fefefe);
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #a0a0a0;
 }
 
@@ -84,7 +104,11 @@
 
 .Button[status=disabled],.FileDownload[status=disabled],.FileUpload .fileuploaditem .fileuploaditembutton[status=disabled]
 {
+<<<<<<< HEAD
 	color : #bbbbbb;
+=======
+	color : #bbbbbb;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #f5f5f5;
 	-nexa-border : 1px solid #d9d9d9;
 }
@@ -93,7 +117,11 @@
 /**********************Calendar***********************************************/
 .Calendar,.CalendarControl
 {
+<<<<<<< HEAD
 	background : #ffffff;
+=======
+	background : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #d5d5d5;
 }
 
@@ -109,7 +137,11 @@
 
 .Calendar[status=disabled],.CalendarControl[status=disabled]
 {
+<<<<<<< HEAD
 	color : #999999;
+=======
+	color : #999999;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #efefef;
 }
 
@@ -172,7 +204,11 @@
 /**********************CheckBox***********************************************/
 .CheckBox,.CheckBoxControl
 {
+<<<<<<< HEAD
 	-nexa-icon : URL('theme://images/chk_WF_Box.png');
+=======
+	-nexa-icon : URL('theme://images/chk_WF_Box.png');
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-text-padding : 0px 0px 0px 6px;
 }
 
@@ -193,13 +229,21 @@
 
 .CheckBox[status=disabled],.CheckBoxControl[status=disabled]
 {
+<<<<<<< HEAD
 	color : #999999;
+=======
+	color : #999999;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/chk_WF_Box_D.png');
 }
 
 .CheckBox[status=disabled][userstatus=selected],.CheckBoxControl[status=disabled][userstatus=selected]
 {
+<<<<<<< HEAD
 	color : #999999;
+=======
+	color : #999999;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/chk_WF_Box_DS.png');
 }
 
@@ -207,7 +251,11 @@
 /**********************Combo***********************************************/
 .Combo,.ComboControl
 {
+<<<<<<< HEAD
 	background : #ffffff;
+=======
+	background : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #d5d5d5;
 }
 
@@ -223,7 +271,11 @@
 
 .Combo[status=disabled],.ComboControl[status=disabled]
 {
+<<<<<<< HEAD
 	color : #999999;
+=======
+	color : #999999;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #efefef;
 }
 
@@ -234,7 +286,11 @@
 
 .Combo .dropbutton,.ComboControl .dropbutton
 {
+<<<<<<< HEAD
 	-nexa-padding : 1px 2px 0px 0px;
+=======
+	-nexa-padding : 1px 2px 0px 0px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/cmb_WF_Drop.png');
 }
 
@@ -255,7 +311,11 @@
 
 .Combo .combolist,.ComboControl .combolist
 {
+<<<<<<< HEAD
 	font : 12px Gulim;
+=======
+	font : 12px Gulim;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #555555;
 	background : #ffffff;
 	-nexa-border : 1px solid #b1b1b1;
@@ -265,14 +325,22 @@
 /**********************Edit***********************************************/
 .Edit,.FileUpload .fileuploaditem .fileuploaditemedit
 {
+<<<<<<< HEAD
 	background : #ffffff;
+=======
+	background : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #d5d5d5;
 	-nexa-padding : 1px 9px 0px 9px;
 }
 
 .EditControl
 {
+<<<<<<< HEAD
 	background : transparent;
+=======
+	background : transparent;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 0px none;
 	-nexa-padding : 1px 9px 0px 9px;
 }
@@ -289,7 +357,11 @@
 
 .Edit[status=disabled],.FileUpload .fileuploaditem .fileuploaditemedit[status=disabled]
 {
+<<<<<<< HEAD
 	color : #999999;
+=======
+	color : #999999;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #efefef;
 }
 
@@ -297,14 +369,22 @@
 /**********************Grid***********************************************/
 .Grid
 {
+<<<<<<< HEAD
 	background : #ffffff;
+=======
+	background : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 2px solid #125dae, 1px solid #b7b1b2, 1px solid #b7b1b2, 1px solid #b7b1b2;
 }
 
 /*-----------------------------------head------------------------------------*/
 .Grid .head .row .cell
 {
+<<<<<<< HEAD
 	font : bold 12px Gulim;
+=======
+	font : bold 12px Gulim;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #2f2f2f;
 	background : linear-gradient(to top, #eff0f0, #f9fafa);
 	-nexa-border : 1px solid #cacaca;
@@ -336,7 +416,11 @@
 /*-----------------------------------body------------------------------------*/
 .Grid .body .row .cell
 {
+<<<<<<< HEAD
 	color : #666666;
+=======
+	color : #666666;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #dbdee2;
 	-nexa-padding : 4px 4px 4px 4px;
 }
@@ -376,7 +460,11 @@
 
 .Grid .summary .row .cell
 {
+<<<<<<< HEAD
 	font : bold 12px Gulim;
+=======
+	font : bold 12px Gulim;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #333333;
 	background : #fdfbe5;
 	-nexa-border : 1px solid #c8c1c2;
@@ -412,7 +500,11 @@
 /*-----------------------------------cellbutton:ButtonControl과 동일------------------------------------*/
 .GridCellControl .cellbutton
 {
+<<<<<<< HEAD
 	font : 12px Gulim;
+=======
+	font : 12px Gulim;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #555555;
 	background : linear-gradient(to top,#eaeaea,#ffffff);
 	-nexa-border : 1px solid #c2c2c2;
@@ -420,7 +512,11 @@
 
 .GridCellControl .cellbutton[status=mouseover],.GridCellControl .cellbutton[status=focused]
 {
+<<<<<<< HEAD
 	background : linear-gradient(to top,#e7e7e7,#fefefe);
+=======
+	background : linear-gradient(to top,#e7e7e7,#fefefe);
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #a0a0a0;
 }
 
@@ -431,7 +527,11 @@
 
 .GridCellControl .cellbutton[status=disabled]
 {
+<<<<<<< HEAD
 	color : #bbbbbb;
+=======
+	color : #bbbbbb;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #f5f5f5;
 	-nexa-border : 1px solid #d9d9d9;
 }
@@ -456,7 +556,11 @@
 
 .GridCellControl .cellcombo .combolist
 {
+<<<<<<< HEAD
 	font : 12px Gulim;
+=======
+	font : 12px Gulim;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #555555;
 }
 
@@ -468,7 +572,11 @@
 /*-----------------------------------celledit:EditControl과 동일------------------------------------*/
 .GridCellControl .celledit
 {
+<<<<<<< HEAD
 	font : 12px Gulim;
+=======
+	font : 12px Gulim;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #ffffff;
 	-nexa-border : 1px solid #d5d5d5;
 	-nexa-padding : 1px 9px 0px 9px;
@@ -481,7 +589,11 @@
 
 .GridCellControl .celledit[status=disabled]
 {
+<<<<<<< HEAD
 	color : #999999;
+=======
+	color : #999999;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #efefef;
 }
 
@@ -496,7 +608,11 @@
 /*-----------------------------------cellmaskedit:MaskEditControl과 동일------------------------------------*/
 .GridCellControl .cellmaskedit
 {
+<<<<<<< HEAD
 	font : 12px Gulim;
+=======
+	font : 12px Gulim;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #ffffff;
 	-nexa-border : 1px solid #d5d5d5;
 	-nexa-padding : 1px 9px 0px 9px;
@@ -509,7 +625,11 @@
 
 .GridCellControl .cellmaskedit[status=disabled]
 {
+<<<<<<< HEAD
 	color : #999999;
+=======
+	color : #999999;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #efefef;
 }
 
@@ -528,7 +648,11 @@
 /*-----------------------------------celltreeitem:------------------------------------*/
 .GridCellControl .celltreeitem .treeitemtext
 {
+<<<<<<< HEAD
 	font : 12px Gulim;
+=======
+	font : 12px Gulim;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #666666;
 }
 
@@ -569,7 +693,11 @@
 
 .Grid .body .row .cell[userstatus=blinked]
 {
+<<<<<<< HEAD
     background : #125dae;
+=======
+    background : #125dae;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #ffffff;
 }
 
@@ -582,7 +710,11 @@
 
 .GroupBox .groupboxcontents
 {
+<<<<<<< HEAD
 	background : #ffffff;
+=======
+	background : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #d6d4d5;
 }
 
@@ -593,13 +725,21 @@
 
 .GroupBox .groupboxtitle
 {
+<<<<<<< HEAD
 	background : #ffffff;
+=======
+	background : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-padding : 0px 4px 0px 4px;
 }
 
 .GroupBox .groupboxtitle[status=disabled]
 {
+<<<<<<< HEAD
 	color : #999999;
+=======
+	color : #999999;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #efefef;
 }
 
@@ -607,7 +747,11 @@
 /**********************ImageViewer***********************************************/
 .ImageViewer
 {
+<<<<<<< HEAD
 	background : #ffffff;
+=======
+	background : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #d5d5d5;
 }
 
@@ -630,7 +774,11 @@
 /**********************ListBox***********************************************/
 .ListBox,.ListBoxControl
 {
+<<<<<<< HEAD
 	background : #ffffff;
+=======
+	background : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #d5d5d5;
 }
 
@@ -646,7 +794,11 @@
 
 .ListBox .listboxitem,.ListBoxControl .listboxitem
 {
+<<<<<<< HEAD
 	color : #555555;
+=======
+	color : #555555;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-padding : 2px 9px 3px 9px;
 }
 
@@ -657,7 +809,11 @@
 
 .ListBox .listboxitem[userstatus=selected],.ListBoxControl .listboxitem[userstatus=selected]
 {
+<<<<<<< HEAD
 	color : #ffffff;
+=======
+	color : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #125dae;
 }
 
@@ -671,14 +827,22 @@
 /**********************MaskEdit***********************************************/
 .MaskEdit
 {
+<<<<<<< HEAD
 	background : #ffffff;
+=======
+	background : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #d5d5d5;
 	-nexa-padding : 1px 9px 0px 9px;
 }
 
 .MaskEditControl
 {
+<<<<<<< HEAD
 	background : transparent;
+=======
+	background : transparent;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 0px none;
 	-nexa-padding : 1px 9px 0px 9px;
 }
@@ -695,7 +859,11 @@
 
 .MaskEdit[status=disabled]
 {
+<<<<<<< HEAD
 	color : #999999;
+=======
+	color : #999999;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #f2f2f2;
 }
 
@@ -713,7 +881,11 @@
 
 .Menu .prevbutton
 {
+<<<<<<< HEAD
 	-nexa-padding : 0px 5px 0px 15px;
+=======
+	-nexa-padding : 0px 5px 0px 15px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/btn_WF_Menuprev.png');
 }
 
@@ -729,7 +901,11 @@
 
 .Menu .nextbutton
 {
+<<<<<<< HEAD
 	-nexa-padding : 0px 15px 0px 5px;
+=======
+	-nexa-padding : 0px 15px 0px 5px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/btn_WF_Menunext.png');
 }
 
@@ -745,7 +921,11 @@
 
 .Menu .menuitem
 {
+<<<<<<< HEAD
 	font : bold 13px Gulim;
+=======
+	font : bold 13px Gulim;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #ffffff;
 	-nexa-padding : 0px 30px 0px 30px;
 }
@@ -762,7 +942,11 @@
 
 .Menu .menupopupmenu
 {
+<<<<<<< HEAD
 	font : 12px Gulim;
+=======
+	font : 12px Gulim;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #555555;
 	background : #0753a5;
 	-nexa-border : 1px solid #034389;
@@ -800,14 +984,22 @@
 
 .Menu .menupopupmenu .popupmenuitem
 {
+<<<<<<< HEAD
 	color : #c3e0ff;
+=======
+	color : #c3e0ff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 0px none, 0px none, 1px solid #2065ae, 0px none;
 	-nexa-padding : 3px 8px 3px 8px;
 }
 
 .Menu .menupopupmenu .popupmenuitem[status=mouseover],.Menu .menupopupmenu .popupmenuitem[status=focused],.Menu .menupopupmenu .popupmenuitem[userstatus=selected]
 {
+<<<<<<< HEAD
 	color : #ffffff;
+=======
+	color : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : transparent;
 }
 
@@ -823,7 +1015,11 @@
 
 .Menu .menupopupmenu .popupmenuitem .popupmenuitemcheckbox
 {
+<<<<<<< HEAD
 	-nexa-padding : 0px 7px 0px 0px;
+=======
+	-nexa-padding : 0px 7px 0px 0px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/chk_WF_Popupmenu_O.png');
 }
 
@@ -834,7 +1030,11 @@
 
 .Menu .menupopupmenu .popupmenuitem .popupmenuitemtext
 {
+<<<<<<< HEAD
 	color : #c3e0ff;
+=======
+	color : #c3e0ff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-padding : 0px 20px 0px 0px;
 }
 
@@ -850,7 +1050,11 @@
 
 .Menu .menupopupmenu .popupmenuitem .popupmenuitemhotkeytext
 {
+<<<<<<< HEAD
 	color : #6d95cc;
+=======
+	color : #6d95cc;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-padding : 0px 7px 0px 0px;
 	-nexa-text-align : right;
 }
@@ -867,7 +1071,11 @@
 
 .Menu .menupopupmenu .popupmenuitem .popupmenuitemexpandimage
 {
+<<<<<<< HEAD
 	-nexa-padding : 0px 0px 2px 0px;
+=======
+	-nexa-padding : 0px 0px 2px 0px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/btn_WF_Popupexpand.png');
 }
 /**********************Plugin***********************************************/
@@ -880,7 +1088,11 @@
 /**********************PopupMenu***********************************************/
 .PopupMenu,.PopupMenuControl
 {
+<<<<<<< HEAD
 	font : 12px Gulim;
+=======
+	font : 12px Gulim;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #555555;
 	background : #ffffff;
 	-nexa-border : 1px solid #b5b5b5;
@@ -918,13 +1130,21 @@
 
 .PopupMenu .popupmenuitem,.PopupMenuControl .popupmenuitem
 {
+<<<<<<< HEAD
 	color : #555555;
+=======
+	color : #555555;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-padding : 3px 9px 3px 9px;
 }
 
 .PopupMenu .popupmenuitem[userstatus=selected],.PopupMenuControl .popupmenuitem[userstatus=selected]
 {
+<<<<<<< HEAD
 	color : #ffffff;
+=======
+	color : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #125dae;
 }
 
@@ -965,7 +1185,11 @@
 
 .PopupMenu .popupmenuitem .popupmenuitemhotkeytext,.PopupMenuControl .popupmenuitem .popupmenuitemhotkeytext
 {
+<<<<<<< HEAD
 	color : #aaaaaa;
+=======
+	color : #aaaaaa;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-padding : 0px 7px 0px 0px;
 	-nexa-text-align : right;
 }
@@ -984,7 +1208,11 @@
 /**********************ProgressBar***********************************************/
 .ProgressBar,.ProgressBarControl
 {
+<<<<<<< HEAD
 	background : linear-gradient(to top, #f0f0f0, #e7e7e7);
+=======
+	background : linear-gradient(to top, #f0f0f0, #e7e7e7);
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #aeaeae, 1px solid #d2d0d1, 1px solid #d2d0d1, 1px solid #d2d0d1;
 }
 
@@ -1000,7 +1228,11 @@
 
 .ProgressBar .progressbartext,.ProgressBarControl .progressbartext
 {
+<<<<<<< HEAD
 	color : #ffffff;
+=======
+	color : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-text-align : center;
 }
 
@@ -1013,7 +1245,11 @@
 
 .Radio .radioitem
 {
+<<<<<<< HEAD
 	-nexa-icon : URL('theme://images/rdo_WF_Radio.png');
+=======
+	-nexa-icon : URL('theme://images/rdo_WF_Radio.png');
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-text-padding : 0px 0px 0px 5px;
 }
 
@@ -1041,7 +1277,11 @@
 /**********************Sketch***********************************************/
 .Sketch
 {
+<<<<<<< HEAD
 	background : #ffffff;
+=======
+	background : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #d5d5d5;
 }
 
@@ -1054,7 +1294,11 @@
 /**********************Spin***********************************************/
 .Spin
 {
+<<<<<<< HEAD
 	background : #ffffff;
+=======
+	background : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #d5d5d5;
 }
 
@@ -1070,13 +1314,21 @@
 
 .Spin[status=disabled]
 {
+<<<<<<< HEAD
 	color : #999999;
+=======
+	color : #999999;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #efefef;
 }
 
 .Spin .spinedit
 {
+<<<<<<< HEAD
 	-nexa-padding : 0px 3px 0px 3px;
+=======
+	-nexa-padding : 0px 3px 0px 3px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-text-align : right;
 }
 
@@ -1087,7 +1339,11 @@
 
 .Spin .spinupbutton
 {
+<<<<<<< HEAD
 	-nexa-padding : 1px 0px 0px 0px;
+=======
+	-nexa-padding : 1px 0px 0px 0px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/btn_WF_Spinup.png');
 }
 
@@ -1108,7 +1364,11 @@
 
 .Spin .spindownbutton
 {
+<<<<<<< HEAD
 	-nexa-padding : 0px 0px 2px 0px;
+=======
+	-nexa-padding : 0px 0px 2px 0px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/btn_WF_Spindown.png');
 }
 
@@ -1143,7 +1403,11 @@
 /**********************TextArea***********************************************/
 .TextArea,.TextAreaControl
 {
+<<<<<<< HEAD
 	background : #ffffff;
+=======
+	background : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #d5d5d5;
 	-nexa-padding : 9px 9px 9px 9px;
 }
@@ -1155,13 +1419,21 @@
 
 .TextArea[status=readonly],.TextAreaControl[status=readonly]
 {
+<<<<<<< HEAD
 	background : #efefef;
+=======
+	background : #efefef;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #d5d5d5;
 }
 
 .TextArea[status=disabled],.TextAreaControl[status=disabled]
 {
+<<<<<<< HEAD
 	color : #999999;
+=======
+	color : #999999;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #efefef;
 }
 
@@ -1194,7 +1466,11 @@
 
 .Tab .tabbuttonitem
 {
+<<<<<<< HEAD
 	color : #333333;
+=======
+	color : #333333;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : linear-gradient(to top, #fcfcfc, #fafafa);
 	-nexa-border : 1px solid #c7c7c7;
 	-nexa-padding : 6px 10px 6px 10px;
@@ -1202,7 +1478,11 @@
 
 .Tab .tabbuttonitem[status=mouseover]
 {
+<<<<<<< HEAD
 	-nexa-border : 1px solid #b1b1b1;
+=======
+	-nexa-border : 1px solid #b1b1b1;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : linear-gradient(to top, #dddcdc, #fefefe);
 }
 
@@ -1213,20 +1493,32 @@
 
 .Tab .tabbuttonitem[userstatus=selected],.Tab .tabbuttonitem[status=focused][userstatus=selected]
 {
+<<<<<<< HEAD
 	color : #dee4ef;
+=======
+	color : #dee4ef;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #1055a1;
 	-nexa-border : 1px solid #1055a1;
 }
 
 .Tab .tabbuttonitem[status=disabled]
 {
+<<<<<<< HEAD
 	color : #ababab;
+=======
+	color : #ababab;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #e7e7e7;
 }
 
 .Tab .tabbuttonitem[status=disabled][userstatus=selected]
 {
+<<<<<<< HEAD
 	-nexa-border : 1px solid #c7d4e2;
+=======
+	-nexa-border : 1px solid #c7d4e2;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #94a9bf;
 }
 
@@ -1237,7 +1529,11 @@
 
 .Tab .tabbuttonitem .extrabutton
 {
+<<<<<<< HEAD
 	-nexa-padding : 0px 0px 0px 20px;
+=======
+	-nexa-padding : 0px 0px 0px 20px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/btn_WF_Tabextra.png');
 	/*-nexa-icon-position : right;*/
 }
@@ -1249,7 +1545,11 @@
 
 .Tab .prevbutton
 {
+<<<<<<< HEAD
 	-nexa-padding : 0px 8px 10px 0px;
+=======
+	-nexa-padding : 0px 8px 10px 0px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/btn_WF_Tabprev.png');
 }
 
@@ -1265,7 +1565,11 @@
 
 .Tab .nextbutton
 {
+<<<<<<< HEAD
 	-nexa-padding : 0px 0px 10px 8px;
+=======
+	-nexa-padding : 0px 0px 10px 8px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/btn_WF_Tabnext.png');
 }
 
@@ -1288,19 +1592,31 @@
 
 .DatePickerControl .head
 {
+<<<<<<< HEAD
 	background : #125dae;
+=======
+	background : #125dae;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-padding : 5px 0px 0px 0px;
 }
 
 .DatePickerControl .head[status=disabled]
 {
+<<<<<<< HEAD
 	background : #94a9bf;
+=======
+	background : #94a9bf;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #cdcdcd;
 }
 
 .DatePickerControl .head .prevbutton
 {
+<<<<<<< HEAD
 	-nexa-padding : 0px 0px 0px 10px;
+=======
+	-nexa-padding : 0px 0px 0px 10px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/btn_WF_Calprev.png');
 }
 
@@ -1321,7 +1637,11 @@
 
 .DatePickerControl .head .nextbutton
 {
+<<<<<<< HEAD
 	-nexa-padding : 0px 10px 0px 0px;
+=======
+	-nexa-padding : 0px 10px 0px 0px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/btn_WF_Calnext.png');
 }
 
@@ -1342,7 +1662,11 @@
 
 .DatePickerControl .head .yearstatic,.DatePickerControl .head .monthstatic
 {
+<<<<<<< HEAD
 	font : bold 14px Tahoma;
+=======
+	font : bold 14px Tahoma;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #ffffff;
 	-nexa-padding : 0px 10px 0px 0px;
 }
@@ -1359,14 +1683,22 @@
 
 .DatePickerControl .head .yearspin .spinedit,.DatePickerControl .head .monthspin .spinedit
 {
+<<<<<<< HEAD
 	font : bold 14px Tahoma;
+=======
+	font : bold 14px Tahoma;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #ffffff;
 	background : #0042a0;
 }
 
 .DatePickerControl .head .yearspin .spinupbutton,.DatePickerControl .head .monthspin .spinupbutton
 {
+<<<<<<< HEAD
 	-nexa-padding : 0px 10px 0px 5px;
+=======
+	-nexa-padding : 0px 10px 0px 5px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/btn_WF_Calspinup.png');
 }
 
@@ -1387,7 +1719,11 @@
 
 .DatePickerControl .head .yearspin .spindownbutton,.DatePickerControl .head .monthspin .spindownbutton
 {
+<<<<<<< HEAD
 	-nexa-padding : 0px 10px 0px 5px;
+=======
+	-nexa-padding : 0px 10px 0px 5px;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-icon : URL('theme://images/btn_WF_Calspindown.png');
 }
 
@@ -1443,7 +1779,11 @@
 
 .DatePickerControl .body .weekitem[status=disabled]
 {
+<<<<<<< HEAD
 	color : #c7d4e2;
+=======
+	color : #c7d4e2;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #94a9bf;
 }
 
@@ -1454,25 +1794,41 @@
 
 .DatePickerControl .body .dayitem[status=mouseover]
 {
+<<<<<<< HEAD
 	color : #ffffff;
+=======
+	color : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #8da3c7;
 }
 
 .DatePickerControl .body .dayitem[status=focused]
 {
+<<<<<<< HEAD
 	color : #ffffff;
+=======
+	color : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #125dae;
 }
 
 .DatePickerControl .body .dayitem[userstatus=selected]
 {
+<<<<<<< HEAD
 	color : #ffffff;
+=======
+	color : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #125dae;
 }
 
 .DatePickerControl .body .dayitem[userstatus=today]
 {
+<<<<<<< HEAD
 	color : #ffffff;
+=======
+	color : #ffffff;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	background : #e7595c;
 }
 
@@ -1520,14 +1876,22 @@
 /**********************ScrollBar***********************************************/
 .VScrollBarControl
 {
+<<<<<<< HEAD
 	background : linear-gradient(to left,#ffffff,#f7f7f7);
+=======
+	background : linear-gradient(to left,#ffffff,#f7f7f7);
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #b1b1b1;
 	-nexa-padding : 2px 2px 2px 2px;
 }
 
 .HScrollBarControl
 {
+<<<<<<< HEAD
 	background : linear-gradient(to top,#ffffff,#f7f7f7);
+=======
+	background : linear-gradient(to top,#ffffff,#f7f7f7);
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #b1b1b1;
 	-nexa-padding : 2px 2px 2px 2px;
 }
@@ -1594,25 +1958,41 @@
 
 .VScrollBarControl .trackbar,.HScrollBarControl .trackbar
 {
+<<<<<<< HEAD
 	background : #dddddd;
+=======
+	background : #dddddd;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #c8c8c8;
 }
 
 .VScrollBarControl .trackbar[userstatus=pushed],.VScrollBarControl .trackbar[status=focused],.VScrollBarControl .trackbar[userstatus=selected],.HScrollBarControl .trackbar[userstatus=pushed],.HScrollBarControl .trackbar[status=focused],.HScrollBarControl .trackbar[userstatus=selected]
 {
+<<<<<<< HEAD
 	background : #999999;
+=======
+	background : #999999;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #888888;
 }
 
 .VScrollBarControl .trackbar[status=mouseover],.HScrollBarControl .trackbar[status=mouseover]
 {
+<<<<<<< HEAD
 	background : #bbbbbb;
+=======
+	background : #bbbbbb;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #a8a8a8;
 }
 
 .VScrollBarControl .trackbar[status=disabled],.HScrollBarControl .trackbar[status=disabled]
 {
+<<<<<<< HEAD
 	background : #eeeeee;
+=======
+	background : #eeeeee;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #d8d8d8;
 }
 
@@ -1625,7 +2005,11 @@
 
 .VScrollIndicatorControl .trackbar,.HScrollIndicatorControl .trackbar
 {
+<<<<<<< HEAD
 	background : #cccccc;
+=======
+	background : #cccccc;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 2px solid transparent;
 }
 
@@ -1648,7 +2032,11 @@
 
 .StatusBarControl .progressbar
 {
+<<<<<<< HEAD
 	background : #eaeaea;
+=======
+	background : #eaeaea;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-border : 1px solid #afaeae, 1px solid #d2d0d0, 1px solid #d2d0d0, 1px solid #d2d0d0;
 }
 
@@ -1659,7 +2047,11 @@
 
 .StatusBarControl .resizegrip
 {
+<<<<<<< HEAD
 	-nexa-icon : URL("theme://images/img_grip.png");
+=======
+	-nexa-icon : URL("theme://images/img_grip.png");
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-vertical-align : bottom;
 }
 
@@ -1667,7 +2059,11 @@
 /**********************TitleBar***********************************************/
 .TitleBarControl
 {
+<<<<<<< HEAD
 	font : bold 12px Gulim;
+=======
+	font : bold 12px Gulim;
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	color : #ffffff;
 	background : #003284;
 	-nexa-padding : 0px 0px 0px 10px;
@@ -1675,7 +2071,11 @@
 
 .TitleBarControl .titleicon
 {
+<<<<<<< HEAD
 	-nexa-icon : URL('theme://images/img_TF_TitleIcon.png');
+=======
+	-nexa-icon : URL('theme://images/img_TF_TitleIcon.png');
+>>>>>>> 6663414b14ecade33489d6732da74fea1a704a44
 	-nexa-text-padding : 0px 0px 0px 10px;
 }
 
